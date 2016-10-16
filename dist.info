@@ -1,0 +1,14 @@
+--- This file is part of LuaDist project
+
+name = "lua-term"
+version = "0.7"
+
+desc = "Terminal functions for Lua"
+author = "Rob Hoelz"
+license = "MIT/X11"
+url = "https://github.com/hoelzro/lua-term/"
+maintainer = "Peter Kapec"
+
+depends = {
+	"lua >= 5.1"
+}
